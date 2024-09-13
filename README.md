@@ -3,12 +3,16 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="left">🌟 About Me:</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Full Stack Devlopment**
 
 - 💬 Ask me about **React js,Next js,Node js**
 
 - 📫 How to reach me **tripathiprakhar005@gmail.com**
+- 🔭 Currently working as a Full-Stack Developer
+- 💻 Experienced in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, and **Node.js**
+-  🎥 Sharing knowledge through [My YouTube Channel](https://www.youtube.com/@codebyprakhar) where I talk about **React Hook Form** and more
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
